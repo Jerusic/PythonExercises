@@ -20,8 +20,7 @@ def falling(n, k):
             n -= 1
             k -= 1
         return result
-    #comment
-    
+
 def falling2(n, k):
     """Compute the falling factorial of n to depth k.
 
